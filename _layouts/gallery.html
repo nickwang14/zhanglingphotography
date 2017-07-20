@@ -1,0 +1,27 @@
+---
+custom_css: 
+  loadingscreen
+class: full_page
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body onload="showPage()" class="remove-padding">
+    <div id="loader"></div>
+    <div class="wrapper-mini">
+      <div style="display:none;" id="page-content" class="fade-in">
+        {% include header.html %}
+        <div class="page-content">
+            {{ content }}
+        </div>
+        {% include footer.html %}
+      </div>
+    </div>
+    <script>
+      function showPage() {
+        document.getElementById("loader").style.display = "none";
+        document.getElementById("page-content").style.display = "block";
+      }
+    </script>
+  </body>
+</html>

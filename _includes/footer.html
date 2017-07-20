@@ -1,0 +1,71 @@
+<footer class="site-footer">
+   <script type="text/javascript">
+    $(function () {
+      $(this).bind("contextmenu", function (e) {
+        e.preventDefault();
+      });
+    });
+  </script>
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+    <h2 class="footer-heading">{{ site.title }}</h2>
+      <div class="footer-col col-md-6">
+        
+        <p class="text">{{ site.description1 }}</p>
+        <p class="text">{{ site.description2 }}</p>
+      </div>
+
+      <div class="footer-col col-md-6" style="float:right">
+        <ul class="contact-list">
+          <li>
+            <a href="mailto:{{ site.email }}">
+              <span class="fa fa-envelope-o" style="display:inline; color: $background-color" aria-hidden="true">
+              </span>
+              {{site.email}}
+            </a>
+          </li>
+          {% if site.github_username %}
+          <li>
+            <a class="page-link" id="social-media" href="https://github.com/{{ site.github_username }}">
+              <span class="fa fa-github" style="display:inline; color: $background-color" aria-hidden="true">
+              </span>
+              {{site.github_username}}
+            </a>
+          </li>
+          {% endif %}
+          {% if site.twitter_username %}
+          <li>
+            <a class="page-link" id="social-media" href="https://twitter.com/{{ site.twitter_username }}">
+              <span class="fa fa-twitter" style="display:inline; color: $background-color" aria-hidden="true">
+              </span>
+              {{site.twitter_username}}
+            </a>
+          </li>
+          {% endif %}
+          {% if site.instagram_username %}
+          <li>
+            <a class="page-link" id="social-media" href="https://instagram.com/{{ site.instagram_username }}">
+              <span class="fa fa-instagram" style="display:inline; color: $background-color" aria-hidden="true">
+              </span>
+              {{site.instagram_username}}
+            </a>
+          </li>
+          {% endif %}
+          {% if site.blogger_username %}
+          <li>
+            <a class="page-link" id="social-media" href="https://{{ site.blogger_username }}.blogspot.ca">
+              <span class="fa fa-google-plus-official" style="display:inline; color: $background-color" aria-hidden="true">
+              </span>
+              {{site.blogger_username}}.com
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>
