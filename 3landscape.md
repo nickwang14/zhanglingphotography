@@ -3,7 +3,7 @@ layout: gallery
 custom_css:
    - customimagegrid
    - loadingscreen
-title: LANDSCAPE
+page-title: LANDSCAPE
 ---
 
 <section id= "photos">
@@ -18,8 +18,8 @@ title: LANDSCAPE
 				<img src="{{image.path}}" alt="{{image.name}}" id="{{image.path}}"/>
 		    </div><!-- /.modal-content -->
 		  </div><!-- /.modal-dialog -->
-		</div><!-- /.modal -->
-	    <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}">
+		</div><!-- /.modal --> 
+	    <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
 			<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
 		</a>
 	    {% endif %}

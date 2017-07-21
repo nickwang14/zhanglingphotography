@@ -27,19 +27,13 @@ custom_css: home
 			</a>
 		</div>
 	</div>
-	<a class="image-banner" href="/4collections">
-		<div class="row galleries3 remove-padding hidden-sm hidden-xs">
-			<div class="col-md-4 remove-padding">
-				<img src="/assets/home/4collection1.jpg" alt="Street Category Photo"/>
+	<div class="row galleries3 remove-padding hidden-sm hidden-xs">
+		<a class="image-banner" href="/4collections">
+			<div class="col-md-12 remove-padding">
+				<img src="/assets/home/4collections.jpg" onmouseover="this.src='/assets/home/collections-hover.jpg'" onmouseout="this.src='assets/home/4collections.jpg'">
 			</div>
-			<div class="col-md-4 remove-padding">
-				<img src="/assets/home/5collection2.jpg" alt="Street Category Photo"/>
-			</div>		
-			<div class="col-md-4 remove-padding">
-				<img src="/assets/home/6collection3.jpg" alt="Street Category Photo"/>
-			</div>
-		</div>
-	</a>
+		</a>
+	</div>
 	<div class="col-sm-12 visible-sm remove-padding">
 		<div class="row remove-padding">
 			<a class="image-banner" href="/0street">

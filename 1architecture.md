@@ -3,7 +3,7 @@ layout: gallery
 custom_css:
    - customimagegrid
    - loadingscreen
-title: ARCHITECTURE
+page-title: ARCHITECTURE
 ---
 
 <section id= "photos">
@@ -19,7 +19,7 @@ title: ARCHITECTURE
 		    </div><!-- /.modal-content -->
 		  </div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
-	    <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}">
+	    <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
 			<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
 		</a>
 	    {% endif %}
