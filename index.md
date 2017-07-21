@@ -37,61 +37,61 @@ custom_css: home
 	<div class="col-sm-12 visible-sm remove-padding">
 		<div class="row remove-padding">
 			<a class="image-banner" href="/0street">
-				<img src="/assets/home/street-hover.jpg" alt="Street Category Photo"/>
+				<img src="/assets/home/street-hover.jpg"/>
 			</a>
 		</div>
 
 		<div class="row remove-padding">
 			<div class="col-sm-6 visible-sm remove-padding">
 				<a class="image-banner" href="/1architecture">
-					<img src="/assets/home/architecture-hover.jpg" alt="Street Category Photo"/>
+					<img src="/assets/home/architecture-hover.jpg"/>
 				</a>
 			</div>
 			<div class="col-sm-6 visible-sm remove-padding">
 				<a class="image-banner" href="/2contemporary">
-					<img src="/assets/home/contemporary-hover.jpg" alt="Street Category Photo"/>
+					<img src="/assets/home/contemporary-hover.jpg"/>
 				</a>
 			</div>
 		</div>
 
 		<div class="row remove-padding">
 			<a class="image-banner" href="/3landscape">
-				<img src="/assets/home/landscape-hover.jpg" alt="Street Category Photo"/>
+				<img src="/assets/home/landscape-hover.jpg"/>
 			</a>
 		</div>
 		<div class="row remove-padding">
 			<a class="image-banner" href="/4collections">
-				<img src="/assets/home/collections-hover.jpg" alt="Street Category Photo"/>
+				<img src="/assets/home/collections-hover.jpg"/>
 			</a>
 		</div>
 	</div>
 	<div class="col-xs-12 visible-xs remove-padding">
 		<div class="row remove-padding">
 			<a class="image-banner" href="/0street">
-				<img src="/assets/home/street-hover.jpg" alt="Street Category Photo"/>
+				<img src="/assets/home/street-hover.jpg"/>
 			</a>
 		</div>
 		<div class="row remove-padding">
 			<div class="col-xs-6 visible-xs remove-padding">
 				<a class="image-banner" href="/1architecture">
-					<img src="/assets/home/architecture-hover.jpg" alt="Street Category Photo"/>
+					<img src="/assets/home/architecture-hover.jpg"/>
 				</a>
 			</div>
 			<div class="col-xs-6 visible-xs remove-padding">
 				<a class="image-banner" href="/2contemporary">
-					<img src="/assets/home/contemporary-hover.jpg" alt="Street Category Photo"/>
+					<img src="/assets/home/contemporary-hover.jpg"/>
 				</a>
 			</div>
 		</div>
 		<div class="row remove-padding">
 			<a class="image-banner" href="/3landscape">
-				<img src="/assets/home/landscape-hover.jpg" alt="Street Category Photo"/>
+				<img src="/assets/home/landscape-hover.jpg"/>
 			</a>
 		</div>
 
 		<div class="row remove-padding">
 			<a class="image-banner" href="/4collections">
-				<img src="/assets/home/collections-hover.jpg" alt="Street Category Photo"/>
+				<img src="/assets/home/collections-hover.jpg"/>
 			</a>
 		</div>
 	</div>

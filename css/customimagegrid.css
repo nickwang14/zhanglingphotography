@@ -2,11 +2,11 @@
    /* Prevent vertical gaps */
    line-height: 0;
    
-   -webkit-column-count: 5;
+   -webkit-column-count: 4;
    -webkit-column-gap:   0px;
-   -moz-column-count:    5;
+   -moz-column-count:    4;
    -moz-column-gap:      0px;
-   column-count:         5;
+   column-count:         4;
    column-gap:           0px;
 }
 
@@ -14,15 +14,9 @@
   /* Just in case there are inline attributes */
   width: 100% !important;
   height: auto !important;
+  padding: 5px;
 }
 
-@media (max-width: 1200px) {
-  #photos {
-  -moz-column-count:    4;
-  -webkit-column-count: 4;
-  column-count:         4;
-  }
-}
 @media (max-width: 1000px) {
   #photos {
   -moz-column-count:    3;
@@ -57,5 +51,5 @@ body {
   .mobile-noclick{
     pointer-events: none;
   }
+  a{display:block;}
 }
-a{display:block;}
