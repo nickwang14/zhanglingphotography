@@ -35,7 +35,7 @@ custom_css: home
 		</a>
 	</div>
 	<div class="col-sm-12 visible-sm remove-padding">
-		<div class="row remove-padding">
+		<div class="row remove-padding" id="horizontal">
 			<a class="image-banner" href="/0street">
 				<img src="/assets/home/street-hover.jpg"/>
 			</a>
@@ -55,7 +55,7 @@ custom_css: home
 		</div>
 
 		<div class="row remove-padding">
-			<a class="image-banner" href="/3landscape">
+			<a class="image-banner" href="/3landscape" id="horizontal">
 				<img src="/assets/home/landscape-hover.jpg"/>
 			</a>
 		</div>
@@ -66,7 +66,7 @@ custom_css: home
 		</div>
 	</div>
 	<div class="col-xs-12 visible-xs remove-padding">
-		<div class="row remove-padding">
+		<div class="row remove-padding" id="horizontal">
 			<a class="image-banner" href="/0street">
 				<img src="/assets/home/street-hover.jpg"/>
 			</a>
@@ -84,7 +84,7 @@ custom_css: home
 			</div>
 		</div>
 		<div class="row remove-padding">
-			<a class="image-banner" href="/3landscape">
+			<a class="image-banner" href="/3landscape" id="horizontal">
 				<img src="/assets/home/landscape-hover.jpg"/>
 			</a>
 		</div>

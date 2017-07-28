@@ -4,8 +4,9 @@ custom_css:
    - customimagegrid
    - loadingscreen
 page-title: STREET
+navigation_weight: 1
 ---
-<section id= "photos">
+<section id="modal">
 	{% for image in site.static_files %}
 	    {% if image.path contains 'assets/street' %}
 	    <div class="modal fade" tabindex="-1" role="dialog" id="index{{forloop.index}}">
@@ -18,9 +19,15 @@ page-title: STREET
 			</div><!-- /.modal-content -->
 		  </div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
-	    <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
-			<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
-		</a>
 	    {% endif %}
+	{% endfor %}
+</section>
+<section id="photos">
+{% for image in site.static_files %}
+	    {% if image.path contains 'assets/street' %}
+    <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
+		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
+	</a>
+	 {% endif %}
 	{% endfor %}
 </section>
