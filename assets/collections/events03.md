@@ -3,13 +3,11 @@ layout: gallery
 custom_css:
    - customimagegrid
    - loadingscreen
-page-title: CONTEMPORARY
-
 ---
 
 <section id="modal">
 	{% for image in site.static_files %}
-	    {% if image.path contains 'assets/contemporary' %}
+	    {% if image.path contains 'assets/collections/events03' %}
 	    <div class="modal fade" tabindex="-1" role="dialog" id="index{{forloop.index}}">
 		  <div class="modal-dialog modal-lg">
 		    <div class="modal-content">
@@ -25,7 +23,7 @@ page-title: CONTEMPORARY
 </section>
 <section id="photos">
 {% for image in site.static_files %}
-	    {% if image.path contains 'assets/contemporary' %}
+	    {% if image.path contains 'assets/collections/events03' %}
     <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
 		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
 	</a>

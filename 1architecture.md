@@ -4,7 +4,6 @@ custom_css:
    - customimagegrid
    - loadingscreen
 page-title: ARCHITECTURE
-navigation_weight: 2
 ---
 
 <section id="modal">

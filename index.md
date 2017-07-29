@@ -1,8 +1,9 @@
 ---
 layout: default
-custom_css: home
+custom_css: 
+- home
 ---
-<div >
+<div>
 	<div class="row galleries1 remove-padding hidden-sm hidden-xs">
 		<div class="col-md-8 remove-padding">
 			<a class="image-banner" href="/0street">

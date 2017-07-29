@@ -4,7 +4,6 @@ custom_css:
    - customimagegrid
    - loadingscreen
 page-title: STREET
-navigation_weight: 1
 ---
 <section id="modal">
 	{% for image in site.static_files %}

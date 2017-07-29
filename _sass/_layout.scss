@@ -200,3 +200,10 @@
     margin-left: 0; 
     margin-right: 0;
 } 
+
+.collection-banners img{
+    padding-bottom: 10px;
+    &:hover{
+        opacity:0.8;
+    }
+}

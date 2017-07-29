@@ -4,7 +4,6 @@ custom_css:
    - customimagegrid
    - loadingscreen
 page-title: LANDSCAPE
-navigation_weight: 4
 ---
 
 <section id="modal">
