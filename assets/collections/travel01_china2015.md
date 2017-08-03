@@ -4,10 +4,9 @@ custom_css:
    - customimagegrid
    - loadingscreen
 ---
-
 <section id="modal">
 	{% for image in site.static_files %}
-	    {% if image.path contains 'assets/collections/travel01' %}
+	    {% if image.path contains 'assets/collections/travel01_china2015/' %}
 	    <div class="modal fade" tabindex="-1" role="dialog" id="index{{forloop.index}}">
 		  <div class="modal-dialog modal-lg">
 		    <div class="modal-content">
@@ -23,7 +22,7 @@ custom_css:
 </section>
 <section id="photos">
 {% for image in site.static_files %}
-	    {% if image.path contains 'assets/collections/travel01' %}
+	    {% if image.path contains 'assets/collections/travel01_china2015/' %}
     <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
 		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
 	</a>
