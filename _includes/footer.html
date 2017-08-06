@@ -16,10 +16,10 @@
         <p class="text">{{ site.description2 }}</p>
       </div>
 
-      <div class="footer-col col-md-6" style="float:right">
+      <div class="footer-col col-md-6 social-media" style="float:right">
         <ul class="contact-list">
           <li>
-            <a href="mailto:{{ site.email }}">
+            <a class="page-link" href="mailto:{{ site.email }}">
               <span class="fa fa-envelope-o" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.email}}
@@ -27,7 +27,7 @@
           </li>
           {% if site.github_username %}
           <li>
-            <a class="page-link" id="social-media" href="https://github.com/{{ site.github_username }}" target="_blank">
+            <a class="page-link" href="https://github.com/{{ site.github_username }}" target="_blank">
               <span class="fa fa-github" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.github_username}}
@@ -36,7 +36,7 @@
           {% endif %}
           {% if site.twitter_username %}
           <li>
-            <a class="page-link" id="social-media" href="https://twitter.com/{{ site.twitter_username }}">
+            <a class="page-link" href="https://twitter.com/{{ site.twitter_username }}">
               <span class="fa fa-twitter" style="display:inline; color: $background-color" aria-hidden="true" target="_blank">
               </span>
               {{site.twitter_username}}
@@ -45,7 +45,7 @@
           {% endif %}
           {% if site.instagram_username %}
           <li>
-            <a class="page-link" id="social-media" href="https://instagram.com/{{ site.instagram_username }}" target="_blank">
+            <a class="page-link" href="https://instagram.com/{{ site.instagram_username }}" target="_blank">
               <span class="fa fa-instagram" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.instagram_username}}
@@ -54,7 +54,7 @@
           {% endif %}
           {% if site.blogger_username %}
           <li>
-            <a class="page-link" id="social-media" href="https://{{ site.blogger_username }}.blogspot.ca" target="_blank">
+            <a class="page-link" href="https://{{ site.blogger_username }}.blogspot.ca" target="_blank">
               <span class="fa fa-google-plus-official" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.blogger_username}}.com
