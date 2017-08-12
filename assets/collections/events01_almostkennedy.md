@@ -3,6 +3,7 @@ layout: gallery
 custom_css:
    - customimagegrid
    - loadingscreen
+permalink: /events01_almostkennedy/
 ---
 <section id="modal">
 	{% for image in site.static_files %}

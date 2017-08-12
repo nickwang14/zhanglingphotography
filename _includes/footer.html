@@ -20,7 +20,7 @@
         <ul class="contact-list">
           <li>
             <a class="page-link" href="mailto:{{ site.email }}">
-              <span class="fa fa-envelope-o" style="display:inline; color: $background-color" aria-hidden="true">
+              <span class="fa fa-envelope-o fa-fw" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.email}}
             </a>
@@ -28,7 +28,7 @@
           {% if site.github_username %}
           <li>
             <a class="page-link" href="https://github.com/{{ site.github_username }}" target="_blank">
-              <span class="fa fa-github" style="display:inline; color: $background-color" aria-hidden="true">
+              <span class="fa fa-github fa-fw" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.github_username}}
             </a>
@@ -37,7 +37,7 @@
           {% if site.twitter_username %}
           <li>
             <a class="page-link" href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="fa fa-twitter" style="display:inline; color: $background-color" aria-hidden="true" target="_blank">
+              <span class="fa fa-twitter fa-wb" style="display:inline; color: $background-color" aria-hidden="true" target="_blank">
               </span>
               {{site.twitter_username}}
             </a>
@@ -46,7 +46,7 @@
           {% if site.instagram_username %}
           <li>
             <a class="page-link" href="https://instagram.com/{{ site.instagram_username }}" target="_blank">
-              <span class="fa fa-instagram" style="display:inline; color: $background-color" aria-hidden="true">
+              <span class="fa fa-instagram fa-fw" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.instagram_username}}
             </a>
@@ -55,9 +55,16 @@
           {% if site.blogger_username %}
           <li>
             <a class="page-link" href="https://{{ site.blogger_username }}.blogspot.ca" target="_blank">
-              <span class="fa fa-google-plus-official" style="display:inline; color: $background-color" aria-hidden="true">
+              <span class="fa fa-google-plus-official fa-fw" style="display:inline; color: $background-color" aria-hidden="true">
               </span>
               {{site.blogger_username}}.com
+            </a>
+          </li>
+          {% endif %}
+          {% if site.lookbook_username %}
+          <li>
+            <a class="page-link" href="http://lookbook.nu/{{ site.lookbook_username }}" target="_blank">
+              <strong> LB </strong> lookbook.nu/{{site.lookbook_username}}
             </a>
           </li>
           {% endif %}

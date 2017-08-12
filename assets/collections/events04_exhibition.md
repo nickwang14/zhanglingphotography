@@ -3,6 +3,8 @@ layout: gallery
 custom_css:
    - customimagegrid
    - loadingscreen
+permalink: /events04_exhibition/
+
 ---
 <section id="modal">
 	{% for image in site.static_files %}

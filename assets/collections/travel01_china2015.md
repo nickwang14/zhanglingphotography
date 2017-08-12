@@ -3,6 +3,7 @@ layout: gallery
 custom_css:
    - customimagegrid
    - loadingscreen
+permalink: /travel01_china2015/
 ---
 <section id="modal">
 	{% for image in site.static_files %}
