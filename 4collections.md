@@ -10,6 +10,7 @@ directories:
 - events02_reminiscence
 - events03_engagement
 - events04_exhibition
+- projects01_elaineollie
 - travel01_china2015
 ---
 <section class="collection-banners">
@@ -46,9 +47,13 @@ directories:
       </div>
       <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
         <div class="panel-body">
-          Coming Soon!
-          <br>
-          <a href="https://zhanglingphotography.blogspot.ca" target="_blank" style="color:blue;"> Stay Tuned for Updates </a>
+          {% for directory in page.directories %}
+            {% if directory contains 'projects' %}
+            <a href= "/{{ directory }}">
+              <img src="./assets/collections/{{ directory }}.jpg">
+            </a>
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
     </div>

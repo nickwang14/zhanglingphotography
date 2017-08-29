@@ -2,7 +2,6 @@
 layout: gallery
 custom_css:
    - customimagegrid
-   - loadingscreen
 page-title: CONTEMPORARY
 
 ---
