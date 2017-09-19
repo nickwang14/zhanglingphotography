@@ -9,7 +9,6 @@ directories:
 - events01_almostkennedy
 - events02_reminiscence
 - events03_engagement
-- events04_exhibition
 - projects01_elaineollie
 - travel01_china2015
 ---
