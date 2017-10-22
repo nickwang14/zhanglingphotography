@@ -1,33 +1,33 @@
 .galleries1{
 	position: relative;
 	margin-bottom: 10px;
-    overflow: hidden;
-    max-height: 308.88px;
+  overflow: hidden;
+  max-height: 308.88px;
 }
 .galleries2{
 	position: relative;
 	margin-bottom: 10px;
-    overflow: hidden;
-    max-height: 255px;
+  overflow: hidden;
+  max-height: 308.88px;
 }
 .galleries3{
 	position: relative;
-    overflow: hidden;
-    padding-right: 5px;
-    padding-left: 5px;	
+  overflow: hidden;
+  padding-right: 5px;
+  padding-left: 5px;	
 }
 
 .galleries1 img{
 	position: relative;
 	width: auto;
 	padding-right: 5px;
-    padding-left: 5px;	
+  padding-left: 5px;	
 }
 .galleries2 img{
 	position: relative;
 	width: auto;
 	padding-right: 5px;
-    padding-left: 5px;
+  padding-left: 5px;
 }
 .galleries3 img{
 	position: relative;
