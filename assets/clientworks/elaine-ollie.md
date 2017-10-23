@@ -3,6 +3,8 @@ layout: gallery
 custom_css:
    - loadingscreen
 permalink: /elaine-ollie/
+title: "Elaine and Ollie"
+page: "client"
 
 ---
 <section class="single-col" id="photos">

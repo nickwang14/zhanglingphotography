@@ -4,6 +4,8 @@ custom_css:
    - customimagegrid
    - loadingscreen
 permalink: /exhibition/
+title: "Exhibition Match"
+page: "client"
 
 ---
 <section id="modal">
