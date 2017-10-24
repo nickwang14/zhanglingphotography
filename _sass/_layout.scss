@@ -94,6 +94,10 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     position: relative;
+    @include media-query($on-palm) {
+        float: none;
+        text-align: center;
+    }
 }
 
 .footer-heading {
