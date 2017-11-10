@@ -7,14 +7,19 @@
     });
   </script>
   <div class="wrapper">
-
+      <svg height="25" width="25">
+          <polygon points="25,25 0,25 12.5,8" style="fill:grey;" />
+      </svg>
+    <div class="footer-col col-md-12 col-sm-12 col-xs-12" id="to-top">
+      <a href="#top" style="color:grey;">Back To Top</a>
+    </div>
     <div class="footer-col-wrapper">
     <h2 class="footer-heading">{{ site.title }}</h2>
-      <div class="footer-col col-md-6">
+      <div class="footer-col col-md-6 col-sm-12 col-xs-12">
         <p class="text">{{ site.description }}</p>
       </div>
 
-      <div class="footer-col col-md-6 social-media" style="float:right">
+      <div class="footer-col col-md-6 col-sm-12 col-xs-12 social-media" style="float:right">
         <ul class="contact-list">
           <li>
             <a class="page-link" href="mailto:{{ site.email }}">
@@ -67,8 +72,6 @@
           </li>
           {% endif %}
         </ul>
-
-      </div>
     </div>
 
   </div>

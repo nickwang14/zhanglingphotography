@@ -4,6 +4,8 @@ custom_css:
    - customimagegrid
    - loadingscreen
 permalink: /almost-kennedy/
+title: "Almost Kennedy"
+page: "client"
 
 ---
 <section id="modal">

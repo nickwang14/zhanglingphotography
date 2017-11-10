@@ -4,6 +4,8 @@ custom_css:
    - customimagegrid
    - loadingscreen
 permalink: /engagement-party/
+title: "Peter and Dalia"
+page: "client"
 
 ---
 <section id="modal">
