@@ -4,7 +4,8 @@ custom_css:
    - customimagegrid
    - loadingscreen
 permalink: /bonnie-jimmy/
-
+title: "Bonnie & Jimmy"
+page: "client"
 ---
 <section id="modal">
 	{% for image in site.static_files %}
