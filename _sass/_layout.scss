@@ -94,9 +94,9 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     position: relative;
+    text-align: center;
     @include media-query($on-palm) {
         float: none;
-        text-align: center;
     }
 }
 
@@ -117,6 +117,7 @@
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    text-align: left;
 }
 
 .footer-col {

@@ -6,7 +6,76 @@ custom_css:
 permalink: /sylva-aiemann/
 title: "Sylva & Aiemann"
 page: "client"
+images: 
+   - sylva-aiemann00.jpg
+   - sylva-aiemann21.jpg
+   - sylva-aiemann42.jpg
+   - sylva-aiemann43.jpg
+   - sylva-aiemann22.jpg
+   - sylva-aiemann01.jpg
+   - sylva-aiemann23.jpg
+   - sylva-aiemann24.jpg
+   - sylva-aiemann44.jpg
+   - sylva-aiemann25.jpg
+   - sylva-aiemann03.jpg
+   - sylva-aiemann26.jpg
+   - sylva-aiemann28.jpg
+   - sylva-aiemann02.jpg
+   - sylva-aiemann05.jpg
+   - sylva-aiemann04.jpg
+   - sylva-aiemann27.jpg
+   - sylva-aiemann29.jpg
+   - sylva-aiemann45.jpg
+   - sylva-aiemann46.jpg
+   - sylva-aiemann30.jpg
+   - sylva-aiemann06.jpg
+   - sylva-aiemann07.jpg
+   - sylva-aiemann31.jpg
+   - sylva-aiemann47.jpg
+   - sylva-aiemann49.jpg
+   - sylva-aiemann32.jpg
+   - sylva-aiemann48.jpg
+   - sylva-aiemann50.jpg
+   - sylva-aiemann51.jpg
+   - sylva-aiemann08.jpg
+   - sylva-aiemann09.jpg
+   - sylva-aiemann10.jpg
+   - sylva-aiemann11.jpg
+   - sylva-aiemann33.jpg
+   - sylva-aiemann52.jpg
+   - sylva-aiemann53.jpg
+   - sylva-aiemann34.jpg
+   - sylva-aiemann54.jpg
+   - sylva-aiemann35.jpg
+   - sylva-aiemann55.jpg
+   - sylva-aiemann12.jpg
+   - sylva-aiemann13.jpg
+   - sylva-aiemann36.jpg
+   - sylva-aiemann14.jpg
+   - sylva-aiemann37.jpg
+   - sylva-aiemann58.jpg
+   - sylva-aiemann38.jpg
+   - sylva-aiemann56.jpg
+   - sylva-aiemann57.jpg
+   - sylva-aiemann17.jpg
+   - sylva-aiemann18.jpg
+   - sylva-aiemann19.jpg
+   - sylva-aiemann20.jpg
+   - sylva-aiemann15.jpg
+   - sylva-aiemann39.jpg
+   - sylva-aiemann40.jpg
+   - sylva-aiemann16.jpg
+   - sylva-aiemann41.jpg
+   - sylva-aiemann59.jpg
+   - sylva-aiemann60.jpg
+   - sylva-aiemann61.jpg
+   - sylva-aiemann62.jpg
 ---
+<section class="mobile-photos">
+{% for link in page.images %}
+	<img src="/assets/clientworks{{ page.permalink }}{{ link }}" class="mobile-photos mobile-noclick"/>
+{% endfor %}
+</section>
 <section id="modal">
 	{% for image in site.static_files %}
 	    {% if image.path contains 'assets/clientworks/sylva-aiemann/' %}
@@ -23,12 +92,12 @@ page: "client"
 	    {% endif %}
 	{% endfor %}
 </section>
-<section id="photos">
+<section id="photos" class="photos">
 {% for image in site.static_files %}
-	    {% if image.path contains 'assets/clientworks/sylva-aiemann/' %}
-    <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
+	{% if image.path contains 'assets/clientworks/sylva-aiemann/' %}
+	 <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
 		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
 	</a>
-	 {% endif %}
-	{% endfor %}
+	{% endif %}
+{% endfor %}
 </section>
