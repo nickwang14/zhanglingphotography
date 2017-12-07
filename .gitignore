@@ -1,4 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
-dynamicmodalsample.mdownnode_modules
+dynamicmodalsample.mdown
+node_modules
