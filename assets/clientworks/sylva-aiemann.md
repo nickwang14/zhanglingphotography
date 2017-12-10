@@ -1,8 +1,6 @@
 ---
-<div>
 <h1 style="text-align:center;">{{title}}</h1>
 <p style="text-align:center;"><i>"Linda was super easy to work with, very easy going, taking in mind all of the ideas that my husband and I were interested in. The photos came out even better than the inspiration pictures we showed her! Would definitely recommend to friends and family!"</br>- Sylva M. (Bride)</i></p>
-</div>
 layout: gallery
 custom_css:
    - customimagegrid
