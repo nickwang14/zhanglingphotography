@@ -71,12 +71,25 @@ images:
     - sylva-aiemann62.jpg
     - sylva-aiemann63.jpg
 ---
+<div class="intro-text">
+    <h1 style="color:grey;text-align:center;">Sylva & Aieman</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            </div>
+            <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8" >
+            <i style="color:grey;">"Linda was super easy to work with, very easy going, taking in mind all of the ideas that my husband and I were interested in. The photos came out even better than the inspiration pictures we showed her! Would definitely recommend to friends and family!"</i>
+            </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            </div>
+        </div>
+    </div>
+    <p style="color:grey;text-align:center;">- Sylva M. (Bride)</p>
+</div>
 <section class="mobile-photos">
 {% for image in site.static_files %}
 	{% if image.path contains 'assets/clientworks/sylva-aiemann/' %}
-	 <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-photos mobile-noclick">
-		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
-	</a>
+		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}" class="mobile-photos mobile-noclick"/>
 	{% endif %}
 {% endfor %}
 </section>
