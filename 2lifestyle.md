@@ -2,33 +2,62 @@
 layout: gallery
 custom_css:
    - customimagegrid
+   - loadingscreen
 page-title: LIFESTYLE
-
+images:
+   - 01lifestyle_coke01.jpg
+   - 02lifestyle_coke02.jpg
+   - 03lifestyle_coke03.jpg
+   - 04lifestyle_shutter.jpg  
+   - 05lifestyle_dutchbaby01.jpg
+   - 06lifestyle_dutchbaby02.jpg
+   - 07lifestyle_dutchbaby03.jpg
+   - 08lifestyle_glasses.jpg
+   - 09lifestyle_tea01.jpg
+   - 10lifestyle_tea02.jpg
+   - 11lifestyle_tea03.jpg
+   - 12lifestyle_mamiya01.jpg
+   - 13lifestyle_mamiya02.jpg
+   - 14lifestyle_mamiya03.jpg
+   - 15lifestyle_strawberry01.jpg
+   - 16lifestyle_strawberry03.jpg
+   - 17lifestyle_vroom01.jpg
+   - 18lifestyle_vroom02.jpg
+   - 19lifestyle_brogues02.jpg
+   - 20lifestyle_xmas01.jpg
+   - 21lifestyle_xmas02.jpg
+   - 22lifestyle_xmas03.jpg
+   - 23lifestyle_tofu01.jpg
+   - 24lifestyle_tofu02.jpg
+   
 ---
 
+<section class="mobile-photos">
+{% for image in site.static_files %}
+	{% if image.path contains 'assets/lifestyle/' %}
+		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}" class="mobile-photos mobile-noclick"/>
+	{% endif %}
+{% endfor %}
+</section>
 <section id="modal">
 	<h1> {{ page.title }} </h1>
-	{% for image in site.static_files %}
-	    {% if image.path contains 'assets/lifestyle' %}
+	{% for link in page.images %}
 	    <div class="modal fade" tabindex="-1" role="dialog" id="index{{forloop.index}}">
 		  <div class="modal-dialog modal-lg">
 		    <div class="modal-content">
 			    <div class="modal-header">
 			        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 			    </div>
-				<img src="{{image.path}}" alt="{{image.name}}" id="{{image.path}}"/>
+				<img src="/assets/lifestyle/{{ page.permalink }}{{ link }}" id="{{image.path}}"/>
 			</div><!-- /.modal-content -->
 		  </div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
-	    {% endif %}
 	{% endfor %}
 </section>
-<section id="photos">
-{% for image in site.static_files %}
-	    {% if image.path contains 'assets/lifestyle' %}
+<section id="photos" class ="photos">
+{% for link in page.images %}
     <a href="#index{{forloop.index}}" data-toggle="modal" data-target="#index{{forloop.index}}" class="mobile-noclick">
-		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}"/>
+		<img src="/assets/lifestyle/{{ page.permalink }}{{ link }}" id="index{{forloop.index}}"/>
 	</a>
-	 {% endif %}
 	{% endfor %}
 </section>
