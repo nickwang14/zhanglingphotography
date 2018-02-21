@@ -24,7 +24,6 @@ images:
   - 15events_accords3.jpg
   - 18events_ossiano3.jpg
 ---
-<!--comment-->
 <section class="mobile-photos">
 {% for image in site.static_files %}
 	{% if image.path contains 'assets/events' %}
