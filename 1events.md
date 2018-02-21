@@ -10,7 +10,7 @@ images:
   - 02events_lightsfest1.jpg
   - 01events_lightsfest2.jpg
   - 13events_accords1.jpg
-  - 16events_ossiano2.jpg
+  - 16events-ossiano2.jpg
   - 06events_remniscence05.jpg
   - 07events_remniscence07.jpg
   - 08events_remniscence06.jpg
