@@ -8,27 +8,27 @@ images:
    - 01lifestyle_coke01.jpg
    - 02lifestyle_coke02.jpg
    - 03lifestyle_coke03.jpg
-   - 04lifestyle_shutter.jpg  
-   - 05lifestyle_dutchbaby01.jpg
-   - 06lifestyle_dutchbaby02.jpg
-   - 07lifestyle_dutchbaby03.jpg
-   - 08lifestyle_glasses.jpg
-   - 09lifestyle_tea01.jpg
-   - 10lifestyle_tea02.jpg
-   - 11lifestyle_tea03.jpg
-   - 12lifestyle_mamiya01.jpg
-   - 13lifestyle_mamiya02.jpg
-   - 14lifestyle_mamiya03.jpg
-   - 15lifestyle_strawberry01.jpg
-   - 16lifestyle_strawberry03.jpg
-   - 17lifestyle_vroom01.jpg
-   - 18lifestyle_vroom02.jpg
-   - 19lifestyle_brogues02.jpg
-   - 20lifestyle_xmas01.jpg
-   - 21lifestyle_xmas02.jpg
-   - 22lifestyle_xmas03.jpg
-   - 23lifestyle_tofu01.jpg
-   - 24lifestyle_tofu02.jpg
+   - 11lifestyle_shutter.jpg  
+   - 22lifestyle_dutchbaby01.jpg
+   - 23lifestyle_dutchbaby02.jpg
+   - 24lifestyle_dutchbaby03.jpg
+   - 15lifestyle_glasses.jpg
+   - 04lifestyle_tea01.jpg
+   - 05lifestyle_tea02.jpg
+   - 06lifestyle_tea03.jpg
+   - 08lifestyle_mamiya01.jpg
+   - 09lifestyle_mamiya02.jpg
+   - 10lifestyle_mamiya03.jpg
+   - 20lifestyle_strawberry01.jpg
+   - 21lifestyle_strawberry03.jpg
+   - 16lifestyle_vroom01.jpg
+   - 17lifestyle_vroom02.jpg
+   - 07lifestyle_brogues02.jpg
+   - 12lifestyle_xmas01.jpg
+   - 13lifestyle_xmas02.jpg
+   - 14lifestyle_xmas03.jpg
+   - 18lifestyle_tofu01.jpg
+   - 19lifestyle_tofu02.jpg
    
 ---
 
