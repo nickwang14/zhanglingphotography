@@ -20,7 +20,7 @@ images:
     - artofwar31.jpg
     - artofwar34.jpg
     - artofwar37.jpg
-    - artofwar40.jpg
+    - artofwar42.jpg
     - artofwar43.jpg
     - artofwar02.jpg
     - artofwar05.jpg
@@ -50,7 +50,7 @@ images:
     - artofwar33.jpg
     - artofwar36.jpg
     - artofwar39.jpg
-    - artofwar42.jpg
+    - artofwar40.jpg
     - artofwar45.jpg
 ---
 <section class="mobile-photos">
