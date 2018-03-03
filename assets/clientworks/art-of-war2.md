@@ -24,7 +24,7 @@ images:
     - artofwar43.jpg
     - artofwar02.jpg
     - artofwar05.jpg
-    - artofwar08.jpg
+    - artofwar06.jpg
     - artofwar11.jpg
     - artofwar14.jpg
     - artofwar17.jpg
@@ -38,7 +38,7 @@ images:
     - artofwar41.jpg
     - artofwar44.jpg
     - artofwar03.jpg
-    - artofwar06.jpg
+    - artofwar08.jpg
     - artofwar09.jpg
     - artofwar12.jpg
     - artofwar15.jpg
