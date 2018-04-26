@@ -55,7 +55,7 @@ images:
 ---
 <section class="mobile-photos">
 {% for image in site.static_files %}
-	{% if image.path contains 'assets/clientworks/sylva-aiemann/' %}
+	{% if image.path contains 'assets/clientworks/art-of-war2/' %}
 		<img src="{{image.path}}" alt="{{image.name}}" id="index{{forloop.index}}" class="mobile-photos mobile-noclick"/>
 	{% endif %}
 {% endfor %}
