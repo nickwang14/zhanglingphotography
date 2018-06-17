@@ -2,7 +2,7 @@
 layout: gallery
 custom_css:
    - customimagegrid
-page-title: TRUE NORTH
+permalink: true-north
 ---
 
 <section id="modal">

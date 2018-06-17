@@ -19,9 +19,14 @@
           {% if page.page-title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.page-title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %}     
+        <a href="#" class="page-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">TRAVEL <span class="caret"></span></a>
+        <ul class="dropdown-menu" id="dropdown-css">
+          <li><a class="page-link" href="./roots">ROOTS</a></li>
+          <li><a class="page-link" href="./shinnenkai">SHINNENKAI</a></li>
+          <li><a class="page-link" href="./true-north">TRUE-NORTH</a></li>
+        </ul>     
       </div>
-      <a name="top"></a>
     </nav>
 
   </div>
