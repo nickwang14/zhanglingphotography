@@ -23,15 +23,15 @@ custom_css:
 			</a>
 		</div>
 		<div class="col-md-8 remove-padding">
-			<a class="image-banner" href="/3roots">
-				<img src="/assets/home/3roots.jpg" onmouseover="this.src='/assets/home/roots-hover.jpg'" onmouseout="this.src='assets/home/3roots.jpg'">
+			<a class="image-banner" href="/3travel">
+				<img src="/assets/home/3travel.jpg" onmouseover="this.src='/assets/home/travel-hover.jpg'" onmouseout="this.src='assets/home/3travel.jpg'">
 			</a>
 		</div>
 	</div>
 	<div class="row galleries3 remove-padding hidden-sm hidden-xs">
-		<a class="image-banner" href="/4true-north">
+		<a class="image-banner" href="/4clients">
 			<div class="col-md-12 remove-padding">
-				<img src="/assets/home/4true-north.jpg" onmouseover="this.src='/assets/home/true-north-hover.jpg'" onmouseout="this.src='assets/home/4true-north.jpg'">
+				<img src="/assets/home/4clients.jpg" onmouseover="this.src='/assets/home/clients-hover.jpg'" onmouseout="this.src='assets/home/4clients.jpg'">
 			</div>
 		</a>
 	</div>
@@ -41,7 +41,6 @@ custom_css:
 				<img src="/assets/home/people-pets-hover.jpg"/>
 			</a>
 		</div>
-
 		<div class="row remove-padding">
 			<div class="col-sm-6 visible-sm remove-padding">
 				<a class="image-banner" href="/1events">
@@ -54,15 +53,14 @@ custom_css:
 				</a>
 			</div>
 		</div>
-
 		<div class="row remove-padding">
-			<a class="image-banner" href="/3roots" id="horizontal">
-				<img src="/assets/home/roots-hover.jpg"/>
+			<a class="image-banner" href="/travel" id="horizontal">
+				<img src="/assets/home/travel-hover.jpg"/>
 			</a>
 		</div>
 		<div class="row remove-padding">
-			<a class="image-banner" href="/4true-north">
-				<img src="/assets/home/true-north-hover.jpg"/>
+			<a class="image-banner" href="/4clients">
+				<img src="/assets/home/clients-hover.jpg"/>
 			</a>
 		</div>
 	</div>
@@ -85,14 +83,13 @@ custom_css:
 			</div>
 		</div>
 		<div class="row remove-padding">
-			<a class="image-banner" href="/3roots" id="horizontal">
-				<img src="/assets/home/roots-hover.jpg"/>
+			<a class="image-banner" href="/3travel" id="horizontal">
+				<img src="/assets/home/travel-hover.jpg"/>
 			</a>
 		</div>
-
 		<div class="row remove-padding">
-			<a class="image-banner" href="/4true-north">
-				<img src="/assets/home/true-north-hover.jpg"/>
+			<a class="image-banner" href="/4clients">
+				<img src="/assets/home/clients-hover.jpg"/>
 			</a>
 		</div>
 	</div>
