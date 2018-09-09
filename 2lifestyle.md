@@ -5,38 +5,38 @@ custom_css:
    - loadingscreen
 page-title: LIFESTYLE
 images:
-   - 01lifestyle_coke01.jpg
-   - 04lifestyle_tea01.jpg
+   - 01lifestyle_pie01.jpg
+   - 04lifestyle_perfume01.jpg
    - 07lifestyle_brogues02.jpg
    - 09lifestyle_mamiya02.jpg
    - 10lifestyle_mamiya03.jpg
    - 24lifestyle_olivegourmando.jpg
    - 22lifestyle_dutchbaby01.jpg
    - 23lifestyle_dutchbaby03.jpg
-   - 25lifestyle_journal01.jpg
-   - 28lifestyle_perfume01.jpg
+   - 25lifestyle_coke01.jpg
+   - 28lifestyle_tea01.jpg
    - 32lifestyle_fuji02.jpg
-   - 02lifestyle_coke02.jpg
-   - 06lifestyle_tea03.jpg
+   - 02lifestyle_pie02.jpg
+   - 05lifestyle_perfume02.jpg
    - 16lifestyle_vroom01.jpg
    - 13lifestyle_xmas02.jpg
    - 08lifestyle_mamiya01.jpg
    - 15lifestyle_glasses.jpg
    - 20lifestyle_strawberry01.jpg
    - 18lifestyle_tofu01.jpg 
-   - 26lifestyle_journal02.jpg
-   - 29lifestyle_perfume02.jpg
+   - 26lifestyle_coke02.jpg
+   - 29lifestyle_tea03.jpg
    - 33lifestyle_fuji03.jpg
-   - 03lifestyle_coke03.jpg
-   - 05lifestyle_tea02.jpg
+   - 03lifestyle_pie03.jpg
+   - 06lifestyle_perfume03.jpg
    - 17lifestyle_vroom02.jpg 
    - 12lifestyle_xmas01.jpg
    - 14lifestyle_xmas03.jpg 
    - 11lifestyle_shutter.jpg  
    - 21lifestyle_strawberry03.jpg
    - 19lifestyle_tofu02.jpg
-   - 27lifestyle_journal03.jpg
-   - 30lifestyle_perfume03.jpg
+   - 27lifestyle_coke03.jpg
+   - 30lifestyle_tea02.jpg
    - 31lifestyle_fuji01.jpg
    
 ---
