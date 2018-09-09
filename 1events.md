@@ -5,22 +5,22 @@ custom_css:
    - loadingscreen
 page-title: EVENTS
 images:
-  - 04events_remniscence01.jpg
-  - 05events_remniscence04.jpg
+  - 04events_artofwar01.jpg
+  - 05events_artofwar02.jpg
   - 02events_lightsfest1.jpg
   - 01events_lightsfest2.jpg
   - 13events_accords1.jpg
   - 16events-ossiano2.jpg
-  - 06events_remniscence05.jpg
-  - 07events_remniscence07.jpg
-  - 08events_remniscence06.jpg
+  - 06events_artofwar03.jpg
+  - 07events_remniscence01.jpg
+  - 10events_lights01.jpg
   - 03events_lightsfest3.jpg
   - 14events_accords2.jpg
   - 17events_ossiano1.jpg
+  - 08events_remniscence02.jpg
   - 09events_remniscence03.jpg
-  - 10events_remniscence08.jpg
-  - 11events_remniscence09.jpg
-  - 12events_remniscence02.jpg
+  - 11events_lights02.jpg
+  - 12events_lights03.jpg
   - 15events_accords3.jpg
   - 18events_ossiano3.jpg
 ---
