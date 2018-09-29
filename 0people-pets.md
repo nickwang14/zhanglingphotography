@@ -5,34 +5,24 @@ custom_css:
    - loadingscreen
 page-title: PEOPLE & PETS
 images:
-   - 01dianafamily04.jpg
-   - 04elaineollie02.jpg
-   - 07elaineollie8.jpg
-   - 10maycee01.jpg
-   - 14bonniejimmy08.jpg 
+   - 03people_elaineollie01.jpg
+   - 24joan01.jpg
    - 15bonniejimmy10.jpg
-   - 21street05.jpg
-   - 23street06.jpg
-   - 21street11.jpg
-   - 02dianafamily03.jpg
-   - 05elaineollie03.jpg
-   - 08elaineollie7.jpg
-   - 11maycee04.jpg
-   - 16bonniejimmy03.jpg
    - 20street09.jpg
-   - 19street03.jpg
    - 26street04.jpg
-   - 24street07.jpg
-   - 03dianafamily07.jpg
-   - 06elaineollie01.jpg
-   - 09elaineollie10.jpg
-   - 12maycee05.jpg
+   - 23street06.jpg
+   - 04people_elaineollie02.jpg
    - 13maycee02.jpg
+   - 16bonniejimmy03.jpg
+   - 02people_diana02.jpg
+   - 19street03.jpg
+   - 22street11.jpg
+   - 05people_elaineollie03.jpg
+   - 12maycee05.jpg
+   - 01people_diana01.jpg
    - 17street01.jpg
-   - 22street08.jpg
    - 25fashion01.jpg
    - 27street10.jpg
-   - 28street13.jpg
 
 ---
 <section class="mobile-photos">
