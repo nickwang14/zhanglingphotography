@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: default
 custom_css: 
 - clients
 - loadingscreen
