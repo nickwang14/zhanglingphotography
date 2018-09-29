@@ -7,7 +7,7 @@ permalink: /3travel/
 page-title: TRAVEL
 ---
 <div class="page-content">
-	<div class="row galleries1 remove-padding hidden-sm hidden-xs">
+	<div class="row galleries remove-padding hidden-sm hidden-xs">
 		<a class="image-banner" href="/6roots">
 			<div class="col-md-12 remove-padding">
 				<img src="/assets/travel/nav/6roots.jpg" onmouseover="this.src='/assets/travel/nav/roots-hover.jpg'" onmouseout="this.src='/assets/travel/nav/6roots.jpg'">
@@ -28,7 +28,7 @@ page-title: TRAVEL
 			</a>
 		</div>
 	</div>
-	<div class="row galleries2 remove-padding hidden-sm hidden-xs">
+	<div class="row galleries remove-padding hidden-sm hidden-xs">
 		<a class="image-banner" href="/5shinnenkai">
 			<div class="col-md-12 remove-padding">
 				<img src="/assets/travel/nav/5shinnenkai.jpg" onmouseover="this.src='/assets/travel/nav/shinnenkai-hover.jpg'" onmouseout="this.src='/assets/travel/nav/5shinnenkai.jpg'">
@@ -49,7 +49,7 @@ page-title: TRAVEL
 			</a>
 		</div>
     </div>
-	<div class="row galleries3 remove-padding hidden-sm hidden-xs">
+	<div class="row galleries remove-padding hidden-sm hidden-xs">
 		<a class="image-banner" href="/4true-north">
 			<div class="col-md-12 remove-padding">
 				<img src="/assets/travel/nav/4true-north.jpg" onmouseover="this.src='/assets/travel/nav/true-north-hover.jpg'" onmouseout="this.src='/assets/travel/nav/4true-north.jpg'">

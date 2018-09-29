@@ -7,7 +7,7 @@ permalink: /4clients/
 page-title: CLIENTS
 ---
 <div class="page-content">
-<div class="row galleries1 remove-padding hidden-sm hidden-xs">
+<div class="row galleries remove-padding hidden-sm hidden-xs">
 	<div class="col-md-6 remove-padding">
 		<a class="image-banner" href="/elaine-ollie/">
 			<img src="/assets/clients/elaineollie.jpg" onmouseover="this.src='/assets/clients/elaineollie-hover.jpg'" onmouseout="this.src='/assets/clients/elaineollie.jpg'">
@@ -19,7 +19,7 @@ page-title: CLIENTS
 		</a>
 	</div>
 </div>
-<div class="row galleries2 remove-padding hidden-sm hidden-xs">
+<div class="row galleries remove-padding hidden-sm hidden-xs">
 	<div class="col-md-6 remove-padding">
 		<a class="image-banner" href="/bonnie-jimmy/">
 			<img src="/assets/clients/bonniejimmy.jpg" onmouseover="this.src='/assets/clients/bonniejimmy-hover.jpg'" onmouseout="this.src='/assets/clients/bonniejimmy.jpg'">
@@ -31,7 +31,7 @@ page-title: CLIENTS
 		</a>
 	</div>
 </div>
-<div class="row galleries3 remove-padding hidden-sm hidden-xs">
+<div class="row galleries remove-padding hidden-sm hidden-xs">
 	<div class="col-md-6 remove-padding" >
 		<a class="image-banner" href="/serena-zao/">
 			<img src="/assets/clients/serenazao.jpg" onmouseover="this.src='/assets/clients/serenazao-hover.jpg'" onmouseout="this.src='/assets/clients/serenazao.jpg'">
@@ -43,7 +43,7 @@ page-title: CLIENTS
 		</a>
 	</div>
 </div>
-<div class="row galleries4 remove-padding hidden-sm hidden-xs">
+<div class="row galleries remove-padding hidden-sm hidden-xs">
 	<div class="col-md-6 remove-padding" >
 		<a class="image-banner" href="/charlotte-food/">
 			<img src="/assets/clients/charlottefood.jpg" onmouseover="this.src='/assets/clients/charlottefood-hover.jpg'" onmouseout="this.src='/assets/clients/charlottefood.jpg'">
@@ -55,49 +55,49 @@ page-title: CLIENTS
 		</a>
 	</div>
 </div>
-<div class="row galleriesmobile remove-padding visible-sm">
-	<div class="col-sm-6 remove-padding">
+<div class="row remove-padding visible-sm">
+	<div class="col-sm-6 galleries remove-padding">
 		<a class="image-banner" href="/elaine-ollie/">
 			<img src="/assets/clients/elaineollie-hover.jpg">
 		</a>
 	</div>
-	<div class="col-sm-6 remove-padding">
+	<div class="col-sm-6 galleries remove-padding">
 		<a class="image-banner" href="/sylva-aiemann/">
 			<img src="/assets/clients/sylvaaiemann-hover.jpg">
 		</a>
 	</div>
 </div>
-<div class="row galleriesmobile remove-padding visible-sm">
-	<div class="col-sm-6 remove-padding">
+<div class="row remove-padding visible-sm">
+	<div class="col-sm-6 galleries remove-padding">
 		<a class="image-banner" href="/bonnie-jimmy/">
 			<img src="/assets/clients/bonniejimmy-hover.jpg">
 		</a>
 	</div>
-	<div class="col-sm-6 remove-padding" >
+	<div class="col-sm-6 galleries remove-padding" >
 		<a class="image-banner">
 			<img src="/assets/clients/catmike-hover.jpg">
 		</a>
 	</div>
 </div>
-<div class="row galleriesmobile remove-padding visible-sm">
-	<div class="col-sm-6 remove-padding" >
+<div class="row remove-padding visible-sm">
+	<div class="col-sm-6 galleries remove-padding" >
 		<a class="image-banner" href="/serena-zao/">
 			<img src="/assets/clients/serenazao-hover.jpg">
 		</a>
 	</div>
-	<div class="col-sm-6 remove-padding">
+	<div class="col-sm-6 galleries remove-padding">
 		<a class="image-banner" href="/art-of-war2/">
 			<img src="/assets/clients/artofwar-hover.jpg">
 		</a>
 	</div>
 </div>
-<div class="row galleriesmobile remove-padding visible-sm">
-	<div class="col-sm-6 remove-padding" >
+<div class="row remove-padding visible-sm">
+	<div class="col-sm-6 galleries remove-padding" >
 		<a class="image-banner" href="/charlotte-food/">
 			<img src="/assets/clients/charlottefood-hover.jpg">
 		</a>
 	</div>
-	<div class="col-sm-6 remove-padding">
+	<div class="col-sm-6 galleries remove-padding">
 		<a class="image-banner" href="/korean-concert/">
 			<img src="/assets/clients/koreanconcert-hover.jpg">
 		</a>
