@@ -12,10 +12,17 @@
 }
 .galleries3{
 	position: relative;
+	margin-bottom: 10px;
   overflow: hidden;
-  padding-right: 5px;
-  padding-left: 5px;	
+  max-height: 308.88px;
 }
+.galleries4{
+	position: relative;
+	margin-bottom: 10px;
+  overflow: hidden;
+  max-height: 308.88px;
+}
+
 
 .galleries1 img{
 	position: relative;
@@ -30,6 +37,12 @@
   padding-left: 5px;
 }
 .galleries3 img{
+	position: relative;
+	width: auto;
+	padding-right: 5px;
+  padding-left: 5px;
+}
+.galleries4 img{
 	position: relative;
   max-height: 308.88px;
   padding-right: 5px;

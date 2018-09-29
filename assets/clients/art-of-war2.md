@@ -6,52 +6,25 @@ custom_css:
 permalink: /art-of-war2/
 title: "Art of War II"
 images: 
-    - artofwar01.jpg
-    - artofwar04.jpg
     - artofwar07.jpg
-    - artofwar10.jpg
-    - artofwar13.jpg
-    - artofwar16.jpg
-    - artofwar19.jpg
-    - artofwar22.jpg
     - artofwar25.jpg
-    - artofwar28.jpg
-    - artofwar31.jpg
-    - artofwar34.jpg
-    - artofwar38.jpg
-    - artofwar42.jpg
-    - artofwar43.jpg
-    - artofwar02.jpg
-    - artofwar05.jpg
-    - artofwar06.jpg
-    - artofwar11.jpg
-    - artofwar14.jpg
-    - artofwar17.jpg
-    - artofwar20.jpg
-    - artofwar23.jpg
-    - artofwar26.jpg
-    - artofwar29.jpg
-    - artofwar32.jpg
-    - artofwar35.jpg
-    - artofwar39.jpg
-    - artofwar41.jpg
-    - artofwar44.jpg
-    - artofwar03.jpg
-    - artofwar08.jpg
-    - artofwar09.jpg
-    - artofwar12.jpg
-    - artofwar15.jpg
-    - artofwar18.jpg
-    - artofwar21.jpg
-    - artofwar24.jpg
-    - artofwar27.jpg
     - artofwar30.jpg
-    - artofwar33.jpg
+    - artofwar32.jpg
+    - artofwar43.jpg
+    - artofwar06.jpg
+    - artofwar16.jpg
+    - artofwar17.jpg
     - artofwar36.jpg
-    - artofwar37.jpg
+    - artofwar41.jpg
+    - artofwar23.jpg
+    - artofwar22.jpg
+    - artofwar39.jpg
     - artofwar40.jpg
     - artofwar45.jpg
 ---
+<div class="intro-text">
+    <h1 style="color:grey;text-align:center;">Art of War II</h1>
+</div>
 <section class="mobile-photos">
 {% for image in site.static_files %}
 	{% if image.path contains 'assets/clients/art-of-war2/' %}
