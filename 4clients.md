@@ -26,7 +26,7 @@ page-title: CLIENTS
 		</a>
 	</div>
 	<div class="col-md-6 remove-padding" >
-		<a class="image-banner">
+		<a class="image-banner" href="/cat-mike/">
 			<img src="/assets/clients/catmike.jpg" onmouseover="this.src='/assets/clients/catmike-hover.jpg'" onmouseout="this.src='/assets/clients/catmike.jpg'">
 		</a>
 	</div>
@@ -74,7 +74,7 @@ page-title: CLIENTS
 		</a>
 	</div>
 	<div class="col-sm-6 galleries remove-padding" >
-		<a class="image-banner">
+		<a class="image-banner" href="/cat-mike/">
 			<img src="/assets/clients/catmike-hover.jpg">
 		</a>
 	</div>
