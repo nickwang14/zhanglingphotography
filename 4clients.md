@@ -113,7 +113,7 @@ page-title: CLIENTS
 		<a class="image-banner" href="/bonnie-jimmy/">
 			<img src="/assets/clients/bonniejimmy-hover.jpg"/>
 		</a>
-		<a class="image-banner" >
+		<a class="image-banner" href="/cat-mike/">
 			<img src="/assets/clients/catmike-hover.jpg"/>
 		</a>
 		<a class="image-banner" href="/serena-zao/">
