@@ -18,8 +18,8 @@ custom_css:
 	</div>
 	<div class="row galleries2 remove-padding hidden-sm hidden-xs">
 		<div class="col-md-4 remove-padding" >
-			<a class="image-banner" href="/2lifestyle">
-				<img src="/assets/home/2lifestyle.jpg" onmouseover="this.src='/assets/home/lifestyle-hover.jpg'" onmouseout="this.src='assets/home/2lifestyle.jpg'">
+			<a class="image-banner" href="/2product">
+				<img src="/assets/home/2product.jpg" onmouseover="this.src='/assets/home/product-hover.jpg'" onmouseout="this.src='assets/home/2product.jpg'">
 			</a>
 		</div>
 		<div class="col-md-8 remove-padding">
@@ -48,8 +48,8 @@ custom_css:
 				</a>
 			</div>
 			<div class="col-sm-6 visible-sm remove-padding">
-				<a class="image-banner" href="/2lifestyle">
-					<img src="/assets/home/lifestyle-hover.jpg"/>
+				<a class="image-banner" href="/2product">
+					<img src="/assets/home/product-hover.jpg"/>
 				</a>
 			</div>
 		</div>
@@ -77,8 +77,8 @@ custom_css:
 				</a>
 			</div>
 			<div class="col-xs-6 visible-xs remove-padding">
-				<a class="image-banner" href="/2lifestyle">
-					<img src="/assets/home/lifestyle-hover.jpg"/>
+				<a class="image-banner" href="/2product">
+					<img src="/assets/home/product-hover.jpg"/>
 				</a>
 			</div>
 		</div>
