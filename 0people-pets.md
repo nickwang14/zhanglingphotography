@@ -11,18 +11,21 @@ images:
    - 20street09.jpg
    - 26street04.jpg
    - 23street06.jpg
+   - 28lavender01.jpg
    - 04people_elaineollie02.jpg
    - 13maycee02.jpg
    - 16bonniejimmy03.jpg
    - 02people_diana02.jpg
    - 19street03.jpg
    - 22street11.jpg
+   - 29lavender02.jpg
    - 05people_elaineollie03.jpg
    - 12maycee05.jpg
    - 01people_diana01.jpg
    - 17street01.jpg
    - 25fashion01.jpg
    - 27street10.jpg
+   - 30lavender03.jpg
 
 ---
 <section class="mobile-photos">
