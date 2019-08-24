@@ -10,14 +10,20 @@ images:
     - charlotte-food03.jpg
     - charlotte-food06.jpg
     - charlotte-food07.jpg
+    - charlotte-food14.jpg
+    - charlotte-food16.jpg
     - charlotte-food04.jpg
     - charlotte-food12.jpg
     - charlotte-food11.jpg
     - charlotte-food08.jpg
+    - charlotte-food15.jpg
+    - charlotte-food17.jpg
     - charlotte-food05.jpg
     - charlotte-food09.jpg
     - charlotte-food10.jpg
     - charlotte-food13.jpg
+    - charlotte-food18.jpg
+    - charlotte-food19.jpg
 
 ---
 <div class="intro-text">
