@@ -21,6 +21,18 @@ page-title: CLIENTS
 </div>
 <div class="row galleries remove-padding hidden-sm hidden-xs">
 	<div class="col-md-6 remove-padding">
+		<a class="image-banner" href="/renee-rob/">
+			<img src="/assets/clients/reneerob.jpg" onmouseover="this.src='/assets/clients/reneerob-hover.jpg'" onmouseout="this.src='/assets/clients/reneerob.jpg'">
+		</a>
+	</div>
+	<div class="col-md-6 remove-padding">
+		<a class="image-banner" href="/james-tash/">
+			<img src="/assets/clients/jamestash.jpg" onmouseover="this.src='/assets/clients/jamestash-hover.jpg'" onmouseout="this.src='/assets/clients/jamestash.jpg'">
+		</a>
+	</div>
+</div>
+<div class="row galleries remove-padding hidden-sm hidden-xs">
+	<div class="col-md-6 remove-padding">
 		<a class="image-banner" href="/bonnie-jimmy/">
 			<img src="/assets/clients/bonniejimmy.jpg" onmouseover="this.src='/assets/clients/bonniejimmy-hover.jpg'" onmouseout="this.src='/assets/clients/bonniejimmy.jpg'">
 		</a>
@@ -69,6 +81,18 @@ page-title: CLIENTS
 </div>
 <div class="row remove-padding visible-sm">
 	<div class="col-sm-6 galleries remove-padding">
+		<a class="image-banner" href="/renee-rob/">
+			<img src="/assets/clients/reneerob-hover.jpg">
+		</a>
+	</div>
+	<div class="col-sm-6 galleries remove-padding">
+		<a class="image-banner" href="/james-tash/">
+			<img src="/assets/clients/jamestash-hover.jpg">
+		</a>
+	</div>
+</div>
+<div class="row remove-padding visible-sm">
+	<div class="col-sm-6 galleries remove-padding">
 		<a class="image-banner" href="/bonnie-jimmy/">
 			<img src="/assets/clients/bonniejimmy-hover.jpg">
 		</a>
@@ -109,6 +133,12 @@ page-title: CLIENTS
 		</a>
 		<a class="image-banner" href="/sylva-aiemann/">
 			<img src="/assets/clients/sylvaaiemann-hover.jpg"/>	
+		</a>
+		<a class="image-banner" href="/renee-rob/">
+			<img src="/assets/clients/reneerob-hover.jpg"/>
+		</a>
+		<a class="image-banner" href="/james-tash/">
+			<img src="/assets/clients/jamestash-hover.jpg"/>	
 		</a>
 		<a class="image-banner" href="/bonnie-jimmy/">
 			<img src="/assets/clients/bonniejimmy-hover.jpg"/>
