@@ -11,18 +11,21 @@ images:
   - 01events_lightsfest2.jpg
   - 13events_accords1.jpg
   - 16events-ossiano2.jpg
+  - 19events_whalesbone01.jpg
   - 06events_artofwar03.jpg
   - 07events_remniscence01.jpg
   - 10events_lights01.jpg
   - 03events_lightsfest3.jpg
   - 14events_accords2.jpg
   - 17events_ossiano1.jpg
+  - 20events_whalesbone02.jpg
   - 08events_remniscence02.jpg
   - 09events_remniscence03.jpg
   - 11events_lights02.jpg
   - 12events_lights03.jpg
   - 15events_accords3.jpg
   - 18events_ossiano3.jpg
+  - 21events_whalesbone03.jpg
 ---
 <section class="mobile-photos">
 {% for image in site.static_files %}

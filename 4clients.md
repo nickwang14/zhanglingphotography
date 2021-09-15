@@ -57,6 +57,18 @@ page-title: CLIENTS
 </div>
 <div class="row galleries remove-padding hidden-sm hidden-xs">
 	<div class="col-md-6 remove-padding" >
+		<a class="image-banner" href="/whalesbone-2019/">
+			<img src="/assets/clients/whalesbone.jpg" onmouseover="this.src='/assets/clients/whalesbone-hover.jpg'" onmouseout="this.src='/assets/clients/whalesbone.jpg'">
+		</a>
+	</div>
+	<div class="col-md-6 remove-padding">
+		<a class="image-banner" href="/capital-punishment/">
+			<img src="/assets/clients/capitalpun.jpg" onmouseover="this.src='/assets/clients/capitalpun-hover.jpg'" onmouseout="this.src='/assets/clients/capitalpun.jpg'">
+		</a>
+	</div>
+</div>
+<div class="row galleries remove-padding hidden-sm hidden-xs">
+	<div class="col-md-6 remove-padding" >
 		<a class="image-banner" href="/charlotte-food/">
 			<img src="/assets/clients/charlottefood.jpg" onmouseover="this.src='/assets/clients/charlottefood-hover.jpg'" onmouseout="this.src='/assets/clients/charlottefood.jpg'">
 		</a>
@@ -117,6 +129,18 @@ page-title: CLIENTS
 </div>
 <div class="row remove-padding visible-sm">
 	<div class="col-sm-6 galleries remove-padding" >
+		<a class="image-banner" href="/whalesbone-2019/">
+			<img src="/assets/clients/whalesbone-hover.jpg">
+		</a>
+	</div>
+	<div class="col-sm-6 galleries remove-padding">
+		<a class="image-banner" href="/capital-punishment/">
+			<img src="/assets/clients/capitalpun-hover.jpg">
+		</a>
+	</div>
+</div>
+<div class="row remove-padding visible-sm">
+	<div class="col-sm-6 galleries remove-padding" >
 		<a class="image-banner" href="/charlotte-food/">
 			<img src="/assets/clients/charlottefood-hover.jpg">
 		</a>
@@ -151,6 +175,12 @@ page-title: CLIENTS
 		</a>	
 		<a class="image-banner" href="/art-of-war2/">
 			<img src="/assets/clients/artofwar-hover.jpg"/>
+		</a>
+		<a class="image-banner" href="/whalesbone-2019/">
+			<img src="/assets/clients/whalesbone-hover.jpg"/>
+		</a>
+		<a class="image-banner" href="/capital-punishment/">
+			<img src="/assets/clients/capitalpun-hover.jpg"/>
 		</a>
 		<a class="image-banner" href="/charlotte-food/">
 			<img src="/assets/clients/charlottefood-hover.jpg"/>
